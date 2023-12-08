@@ -2,7 +2,7 @@
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
-If you don't want to directly checkout the result, you can try this link [https://data-visualization-task.netlify.app/](https://data-visualization-task.netlify.app/)
+If you want to directly checkout the result, you can try this link [https://data-visualization-task.netlify.app/](https://data-visualization-task.netlify.app/)
 
 To start the project, in the base directory of the project folder,
 
