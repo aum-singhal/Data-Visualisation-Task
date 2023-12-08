@@ -2,14 +2,16 @@
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
+If you don't want to directly checkout the result, you can try this link [https://data-visualization-task.netlify.app/](https://data-visualization-task.netlify.app/)
+
 To start the project, in the base directory of the project folder,
 
 run the following commands
 
-#### `yarn install`
+### `yarn install`
 this command will install all the node modules needed for the working of the project after successfull execution of the above command, 
 
-#### `yarn start`
+### `yarn start`
 This command will run the application in the development mode.
 It will open [http://localhost:3000](http://localhost:3000) in the browser or you can also open it manually to view the results
 
@@ -21,7 +23,7 @@ Result of Gamma Table
 
 you can also try 
 
-#### `yarn build`
+### `yarn build`
 
 this command builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -31,7 +33,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#### `yarn eject`
+### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
